@@ -1,2 +1,2 @@
 # Django
-Create a django server
+Create a Web server by Django
